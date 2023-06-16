@@ -1,0 +1,26 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [100W_Inverter_V1.PrjPcb]
+   Generated File[100W_Inverter_V1_PCB.GTO]
+   Generated File[100W_Inverter_V1_PCB.GTP]
+   Generated File[100W_Inverter_V1_PCB.GTS]
+   Generated File[100W_Inverter_V1_PCB.GTL]
+   Generated File[100W_Inverter_V1_PCB.GBL]
+   Generated File[100W_Inverter_V1_PCB.GBS]
+   Generated File[100W_Inverter_V1_PCB.GBP]
+   Generated File[100W_Inverter_V1_PCB.GBO]
+   Generated File[100W_Inverter_V1_PCB.GM1]
+   Generated File[100W_Inverter_V1_PCB.GKO]
+   Generated File[100W_Inverter_V1_PCB.GPT]
+   Generated File[100W_Inverter_V1_PCB.GPB]
+   Generated File[100W_Inverter_V1_PCB.GD1]
+   Generated File[100W_Inverter_V1_PCB.GG1]
+   Generated File[100W_Inverter_V1_PCB.RUL]
+   Generated File[100W_Inverter_V1_PCB.EXTREP]
+   Generated File[100W_Inverter_V1_PCB.REP]
+
+
+Files Generated   : 17
+Documents Printed : 0
+
+Finished Output Generation At 10:28:55 On 09-10-2021
